@@ -1,0 +1,303 @@
+    1  su
+    2  su root
+    3  cat /etc/passwd
+    4  cd ..
+    5  cd -
+    6  pwd
+    7  ls -l
+    8  cd/
+    9  pwd
+   10  cd ..
+   11  cd
+   12  cd-
+   13  pwd
+   14  mkdir xiongdadewenjian
+   15  ls
+   16  wpd
+   17  pwd
+   18  ls
+   19  cd /xiongdadewenjian
+   20  echo > xiongdadewenjian
+   21  ls -l
+   22  mkdir xiongerdewenjian
+   23  ls -l
+   24  touch iamwenjian
+   25  ls
+   26  echo hahahi>iamwenjian
+   27  ls -l
+   28  cd /iamwenjian
+   29  touch iamfile
+   30  ls -l
+   31  echo whoami>iamfile
+   32  ls -l
+   33  tree
+   34  sudo snap install sudo snap install 
+   35  sudo apt  install tree
+   36  tree
+   37  cd ..
+   38  ls -l
+   39  sudo useradd xionger -m
+   40  ls -l
+   41  sudo passwd xionger
+   42  ls -a
+   43  ls
+   44  cd
+   45  cd/
+   46  cd ..
+   47  cd -
+   48  pwd
+   49  ls
+   50  ls -l
+   51  cd -
+   52  ls -l
+   53  ls
+   54  cd /iamfile
+   55  cp iamfile iamwenjian
+   56  tree
+   57  pwd
+   58  ls
+   59  cd ..
+   60  cd-
+   61  cd -
+   62  cd /home
+   63  ls
+   64  cd/lyf
+   65  ls
+   66  lyf
+   67  touch fakefile
+   68  ls
+   69  cd ..
+   70  touch fakefile
+   71  ls
+   72  etc
+   73  cat /etc
+   74  cat /etc/group
+   75  ls -l
+   76  touch fakefile
+   77  ls /etc
+   78  exit
+   79  ls -l
+   80  df -h iamfile
+   81  du -h iamfile
+   82  cat -n iamfile
+   83  touch iambadfile
+   84  echo i am really a badguy
+   85  i am really a badguy
+   86  echo i am really a badguy>iambadfile
+   87  vim
+   88  sudo apt install vim
+   89  ll
+   90  cd /room
+   91  cd~
+   92  cd ~
+   93  ll
+   94  cd ..
+   95  ll
+   96  pwd
+   97  cd
+   98  pwd
+   99  ll
+  100  pwd
+  101  cd
+  102  cd ..
+  103  ll
+  104  cd /xiongda
+  105  cat /xiongda
+  106  cat xiongda
+  107  xiongda
+  108  cd
+  109  pwd
+  110  mkdir 20190409
+  111  ll
+  112  cd 20190409
+  113  cd..
+  114  cd
+  115  ll
+  116  cd ..
+  117  ll
+  118  userdel xionger
+  119  userdel xiongsan
+  120  userdel -r xiongsan
+  121  cat /etc/passwd
+  122  userdel -r xiongsan
+  123  sudo userdel siongsan
+  124  ll
+  125  su
+  126  sudo userdel-r xiongsan
+  127  userdel -r xiongsan
+  128  cd /etc
+  129  ll
+  130  sudo rm -r .pwd.lock
+  131  ll
+  132  find .pwd.lock
+  133  cd
+  134  ll
+  135  cd..
+  136  cd ..
+  137  ll
+  138  sudo userdel -r xiongsan
+  139  ll
+  140  useradd xiongsi
+  141  sudo useradd xiongs
+  142  ll
+  143  cd .
+  144  ll
+  145  cd ..
+  146  ll
+  147  cd
+  148  ll
+  149  cd .group
+  150  cd .groupg
+  151  cd ~
+  152  ll
+  153  /home
+  154  cd /home
+  155  ll
+  156  sudo ..
+  157  sudo cd .
+  158  sudo passwd xiongs
+  159  ll
+  160  cd .
+  161  cd ..
+  162  ll
+  163  cd ..
+  164  cd
+  165  ll
+  166  cd
+  167  cd /home
+  168  ll
+  169  find xiongs
+  170  cd
+  171  find xiongs
+  172  sudo userdel xionger
+  173  ll
+  174  cd /home
+  175  ll
+  176  cat /etc/passwd
+  177  userdel xiongs
+  178  sudo userdel xiongs
+  179  cat /etc/passwd
+  180  sudo userdel xiongda
+  181  cat /etc/passwd
+  182  sudo userdel dalao
+  183  cat /etc/passwd
+  184  pwd
+  185  ll
+  186  sudo rm -r xiongda
+  187  ll
+  188  sudo rm -r xionger
+  189  ll
+  190  clear
+  191  time
+  192  sudo time
+  193  cd
+  194  ll
+  195  cd /20190409
+  196  vim iamfile
+  197  cat iamfile
+  198  head -2 iamfile
+  199  vim iamfile
+  200  cat iamfile
+  201  su
+  202  su root
+  203  passwd root
+  204  su
+  205  sudo su
+  206  su
+  207  sudo su
+  208  su
+  209  ls
+  210  wc -l .
+  211  . wc -l
+  212  cd . wc -l
+  213  wps
+  214  pwd
+  215  wc -l /home/lyf
+  216  ls
+  217  ls -l |grep .
+  218  ls -l
+  219  ls|wc -l
+  220  sudo apt install gcc
+  221  sudo apt install vim-youcompleteme
+  222  vim-addons install youcompleteme
+  223  vim.bashrc
+  224  ls
+  225  vim gmtime.c 
+  226  vim.bashrc
+  227  cd.
+  228  cd .
+  229  ls
+  230  cd
+  231  ls
+  232  cd /home
+  233  vim.bashrc
+  234  vim .bashrc
+  235  cd ~
+  236  vim .bashrc
+  237  . .bashrc
+  238  ls
+  239  mv vimrc .vimrc
+  240  ls
+  241  ls -a
+  242  vim gmtime.c 
+  243  vim iamfile
+  244  wc|ls -l
+  245  ls|ws -l
+  246  ls|wc -l
+  247  cd /home
+  248  ls|wc -l
+  249  ls
+  250  cd
+  251  cd /Music
+  252  ls
+  253  cd /Music
+  254  ls
+  255  ls|wc -l
+  256  wc The_Holy_Bible.txt 
+  257  ls -l|grep^d
+  258  ls -l|grep^d The_Holy_Bible.txt 
+  259  touch newfile
+  260  ls
+  261  head -10>newfile
+  262  head -10 >newfile
+  263  head -10 > newfile
+  264  head -10 The_Holy_Bible.txt 
+  265  head -10 The_Holy_Bible.txt >newfile 
+  266  cat newfile
+  267  fing /usr/include *stdio.h
+  268  find /usr/include *stdio.h
+  269  find /usr/include/ -name stdio.h
+  270  find /usr/include/ -name std
+  271  ls|wc -l
+  272  umask
+  273  ls
+  274  ls -l
+  275  touch newfile2
+  276  grep stdio.h
+  277  gret stdio.h /usr/include
+  278  grep stdio.h /usr/include
+  279  grep printf /usr/include/stdio.h
+  280  umask
+  281  umask 022
+  282  umask
+  283  touch newfile3
+  284  ll
+  285  ls -s 666 newfile3
+  286  ls -s newfile3
+  287  chomod 666 newfile3
+  288  chmod 666 newfile3
+  289  ll
+  290  gzip -dv day2.tar.gz
+  291  ll
+  292  gzip -v day2.tar.gz/day2.tar
+  293  gzip -v day2.tar.gz
+  294  tar xfvz day2.tar 
+  295  ll
+  296  tar xf day2.tar 
+  297  ll
+  298  tar xfvz day2.tar.gz day2 xiongerdewenjian
+  299  tar xfvz new.tar.gz newfile*
+  300  tar xvzf new.tar.gz newfile*
+  301  tar xvzf new.tar.gz newfile
+  302  touch day2_李毅凡
+  303  history >day2_李毅凡 
